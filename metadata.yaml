@@ -1,0 +1,26 @@
+_repo: Ben-Hardy-s-flying-machine-or-Making-a-record-for-himself_69511
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+    wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
+description: ''
+gutenberg_issued: '2022-12-09'
+identifiers:
+  gutenberg: '69511'
+language: en
+pgterms:marc905: 20220622102616webster
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: David Edwards, Bob Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: 'United States: Cupples & Leon Company,1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ben Hardy''s flying machine: or, Making a record for himself'
+url: http://www.gutenberg.org/ebooks/69511
