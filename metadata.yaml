@@ -1,5 +1,8 @@
 _repo: Ben-Hardy-s-flying-machine-or-Making-a-record-for-himself_69511
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69511-h/images/cover.jpg
 creator:
   author:
     agent_name: Webster, Frank V.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1955
     wikipedia: https://en.wikipedia.org/wiki/Frank_V._Webster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69511#Ben-Hardy-s-flying-machine-or-Making-a-record-for-himself
 gutenberg_issued: '2022-12-09'
 identifiers:
   gutenberg: '69511'
